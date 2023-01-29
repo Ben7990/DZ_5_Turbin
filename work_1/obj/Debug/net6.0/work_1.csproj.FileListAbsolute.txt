@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\bin\Debug\net6.0\work_1.exe
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\bin\Debug\net6.0\work_1.deps.json
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\bin\Debug\net6.0\work_1.runtimeconfig.json
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\bin\Debug\net6.0\work_1.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\bin\Debug\net6.0\work_1.pdb
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\refint\work_1.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.pdb
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\work_1.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_5_Turbin\work_1\obj\Debug\net6.0\ref\work_1.dll
